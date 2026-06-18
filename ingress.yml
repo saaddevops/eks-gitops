@@ -16,7 +16,7 @@ spec:
   - http:
       paths:
 
-      - path: /users
+      - path: /
         pathType: Prefix
 
         backend:
